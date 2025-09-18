@@ -66,6 +66,8 @@ Perform exploratory data analysis (EDA) on the scraped dataset and build predict
 
 **Goal:**  
 Understand customer opinions by analyzing the text of their reviews. Identify key themes and extract sentiment (positive/negative/neutral).  
+Foor Booking.com revies: [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe?resource=download)
+For Airbnb reviews: [Amsterdam: Detailed Review Data](https://insideairbnb.com/get-the-data/)
 
 **Key Steps:**  
 - **Language detection**: Ensure only English (or desired language) reviews are analyzed.  
