@@ -80,7 +80,7 @@ For Airbnb reviews: [Amsterdam: Detailed Review Data](https://insideairbnb.com/g
   - Labeling reviews as *positive*, *neutral*, or *negative*.  
 - **Keyword & n-gram extraction**:  
   - Identifying most frequent words, bigrams, and trigrams for positive vs. negative reviews.  
-  - Removing generic stop words (e.g., "br", "stay").  
+  - Removing generic stop words (e.g., "good", "stay").  
 - **Visualization**:  
   - Word frequency tables.  
   - Word clouds with **color-coded sentiment** (green = positive, red = negative).  
@@ -107,7 +107,7 @@ For Airbnb reviews: [Amsterdam: Detailed Review Data](https://insideairbnb.com/g
    - Automated workflow from raw web scraping to structured dataset ready for analysis.  
 
 2. **Predictive Power**:  
-   - Machine learning models that predict price bands or review polarity with reasonable accuracy.  
+   - Machine learning models that predict price bands or review polarity with questionable accuracy.  
 
 3. **Customer Insights**:  
    - Identification of the *top positive* and *top negative* drivers of guest experiences.  
