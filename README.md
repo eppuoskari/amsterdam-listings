@@ -28,7 +28,7 @@ Collect structured data from Booking.com about hotels/properties, including prop
 **Outcome:**  
 A raw but structured dataset of hotel properties that will be the foundation for later analysis.  
 
-For Airbnb, quarterly data for the last year for each region is available for free download on [This page](https://insideairbnb.com/get-the-data/).
+For Airbnb, quarterly data for the last year for each region is available for free download on [this page](https://insideairbnb.com/get-the-data/).
 
 ---
 
