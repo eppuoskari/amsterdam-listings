@@ -13,7 +13,9 @@ The project is divided into three Jupyter notebooks, each handling a distinct st
 ## 1️⃣ Web Scraping Booking.com  
 
 **Goal:**  
-Collect structured data from Booking.com about hotels/properties, including property details, pricing, and customer reviews.  
+Collect structured data from Booking.com about hotels/properties, including property details, pricing, and customer reviews. The get the price, scraping had to be done using dates. To maximise the amount of available properties the dates selected were:   
+- checkin = "2025-12-15"
+- checkout = "2025-12-22"
 
 **Key Steps:**  
 - **Scraping property information**: Extracting property name, location, rating, number of reviews, price per night, etc.  
