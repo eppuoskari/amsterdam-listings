@@ -48,7 +48,6 @@ Perform exploratory data analysis (EDA) on the scraped dataset and build predict
 - **Feature engineering**: Creating variables such as "distance from city center" or "latitude and longitude."  
 - **Modeling**:  
   - Supervised machine learning (e.g., Logistic Regression, Random Forest, XGBoost).  
-  - Predicting whether a review is *positive/negative* or estimating hotel price bands.  
   - Hyperparameter tuning with GridSearch.  
 - **Model evaluation**: Accuracy, precision, recall, confusion matrix, feature importance.  
 
