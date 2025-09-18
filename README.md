@@ -1,6 +1,6 @@
 # 🏨 Hotel Reviews Analysis & Prediction Project  
 
-This project is an end-to-end data science pipeline focused on **hotel property data** and **customer reviews** from [Booking.com](https://www.booking.com) and [Airbnb](https://insideairbnb.com/get-the-data/). It combines **web scraping**, **predictive modeling**, and **sentiment analysis** to provide insights into customer satisfaction and pricing strategies.  
+This project is an end-to-end data science pipeline focused on **hotel and rental accommodation data** and **customer reviews** from [Booking.com](https://www.booking.com) and [Airbnb](https://insideairbnb.com/get-the-data/). It combines **web scraping**, **predictive modeling**, and **sentiment analysis** to provide insights into customer satisfaction and pricing strategies.  
 
 The project is divided into three Jupyter notebooks, each handling a distinct stage of the workflow and a presentation with key take aways:  
 
@@ -23,7 +23,7 @@ Collect structured data from Booking.com about hotels/properties, including prop
 - **Exporting data**: Saving scraped data as CSV for later analysis.  
 
 **Techniques / Libraries Used:**  
-- `requests` and `BeautifulSoup` for scraping HTML pages.  
+- `Selenium` for scraping HTML pages.  
 - `pandas` for structuring and saving data.  
 - Basic **scraping best practices** (user agents, delays, human-like scrolling avoiding bot detection).  
 
