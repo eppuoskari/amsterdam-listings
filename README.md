@@ -58,7 +58,7 @@ Perform exploratory data analysis (EDA) on the scraped dataset and build predict
 **Outcome:**  
 - Insights into what factors influence hotel pricing and guest ratings.  
 - A predictive model capable of classifying/predicting hotel performance based on input features, although the model is not doing great job with predictions.
-- Interactive dashboard with great insight to support pricing strategies. 
+- Interactive [Tableau dashboard](https://public.tableau.com/views/amsterdam_listings/AmsterdamListings?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) with great insight to support pricing strategies. 
 
 ---
 
@@ -128,7 +128,7 @@ Understand customer opinions by analyzing the text of their reviews. Identify ke
    - Clean datasets (`CSV`).  
    - Trained models (optional: export with `joblib`).  
    - Visualizations (histograms, boxplots, word clouds, correlation heatmaps).
-   - Tableau dashboard
+   - [Tableau dashboard](https://public.tableau.com/views/amsterdam_listings/AmsterdamListings?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
